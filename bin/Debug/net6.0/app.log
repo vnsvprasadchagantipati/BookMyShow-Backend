@@ -1,0 +1,149 @@
+INFO  02:16:21 BookMyShowNewWebAPI.Entity.City
+INFO  02:21:24 4
+ERROR 02:40:56 An error occurred while saving the entity changes. See the inner exception for details.
+INFO  02:41:07 BookMyShowNewWebAPI.Entity.Booking
+INFO  09:29:39 BookMyShowNewWebAPI.Entity.City
+INFO  08:54:07 BookMyShowNewWebAPI.Entity.City
+ERROR 09:01:16 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 09:19:42 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:48:14 An error occurred while saving the entity changes. See the inner exception for details.
+INFO  04:25:49 BookMyShowNewWebAPI.Entity.City
+INFO  04:37:58 BookMyShowNewWebAPI.Entity.City
+INFO  04:56:36 BookMyShowNewWebAPI.Entity.City
+INFO  04:56:45 BookMyShowNewWebAPI.Entity.City
+INFO  04:57:49 BookMyShowNewWebAPI.Entity.City
+INFO  05:10:52 BookMyShowNewWebAPI.Entity.City
+INFO  09:18:29 BookMyShowNewWebAPI.Entity.City
+ERROR 09:33:04 An error occurred while saving the entity changes. See the inner exception for details.
+INFO  10:25:54 BookMyShowNewWebAPI.Entity.City
+INFO  10:28:04 BookMyShowNewWebAPI.Entity.City
+ERROR 09:24:29 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 05:21:27 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 06:20:25 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 06:40:42 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 06:58:17 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 08:58:44 The database operation was expected to affect 1 row(s), but actually affected 0 row(s); data may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=527962 for information on understanding and handling optimistic concurrency exceptions.
+ERROR 08:59:24 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 08:59:44 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 09:00:16 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 09:00:37 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 09:01:08 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 09:01:23 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 09:01:40 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 09:01:48 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 09:01:55 An error occurred while saving the entity changes. See the inner exception for details.
+INFO  04:09:46 BookMyShowNewWebAPI.Entity.City
+INFO  04:09:47 BookMyShowNewWebAPI.Entity.City
+INFO  04:09:48 BookMyShowNewWebAPI.Entity.City
+INFO  04:09:49 BookMyShowNewWebAPI.Entity.City
+INFO  04:09:49 BookMyShowNewWebAPI.Entity.City
+INFO  04:09:49 BookMyShowNewWebAPI.Entity.City
+INFO  04:09:50 BookMyShowNewWebAPI.Entity.City
+INFO  04:49:07 BookMyShowNewWebAPI.Entity.City
+INFO  05:46:14 BookMyShowNewWebAPI.Entity.City
+INFO  06:53:05 BookMyShowNewWebAPI.Entity.City
+INFO  06:53:39 BookMyShowNewWebAPI.Entity.City
+ERROR 06:58:45 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:26:22 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:26:50 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:34:20 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:38:03 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:53:21 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 08:02:24 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 08:05:19 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 08:15:38 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 08:16:37 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 08:17:27 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:07:27 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:07:42 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:08:48 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:09:11 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:09:52 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:14:46 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:15:11 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:16:49 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:17:13 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:31:47 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:31:56 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:34:08 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:34:17 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:35:06 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:35:16 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:35:57 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 08:00:42 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 08:00:55 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 08:01:03 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 09:01:09 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 09:07:23 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 09:21:43 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 09:38:45 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:15:51 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:16:29 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:16:57 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:17:18 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:21:34 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:34:18 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:39:27 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:39:49 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:55:12 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:55:29 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 11:11:13 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 11:15:02 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 01:35:34 The client projection contains a reference to a constant expression of 'BookMyShowNewWebAPI.Services.MovieService' through the instance method 'CalculateAmount'. This could potentially cause a memory leak; consider making the method static so that it does not capture constant in the instance. See https://go.microsoft.com/fwlink/?linkid=2103067 for more information.
+ERROR 01:39:12 The client projection contains a reference to a constant expression of 'BookMyShowNewWebAPI.Services.MovieService' through the instance method 'CalculateAmount'. This could potentially cause a memory leak; consider making the method static so that it does not capture constant in the instance. See https://go.microsoft.com/fwlink/?linkid=2103067 for more information.
+ERROR 03:14:41 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 04:06:10 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 04:12:24 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 04:13:59 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 04:15:07 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 04:17:15 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 05:34:37 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 12:18:09 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 04:26:32 Cannot insert the value NULL into column 'Phone', table 'Storage.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 05:52:05 Unable to track an entity of type 'User' because its primary key property 'UserID' is null.
+ERROR 08:14:48 Unable to track an entity of type 'User' because its primary key property 'UserID' is null.
+ERROR 08:16:27 Unable to track an entity of type 'User' because its primary key property 'UserID' is null.
+ERROR 08:28:48 Cannot insert the value NULL into column 'Email', table 'Storage.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 08:36:35 Cannot insert the value NULL into column 'Email', table 'Storage.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 08:55:37 Cannot insert the value NULL into column 'Email', table 'Storage.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 09:10:04 Cannot insert the value NULL into column 'Email', table 'Storage.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 09:13:59 Cannot insert the value NULL into column 'Email', table 'Storage.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 09:14:30 Cannot insert the value NULL into column 'Email', table 'Storage.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 07:52:12 Cannot insert the value NULL into column 'Email', table 'Storage.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 08:03:12 Cannot insert the value NULL into column 'Email', table 'Storage.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 08:04:39 Cannot insert the value NULL into column 'Email', table 'Storage.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 08:32:45 Cannot insert the value NULL into column 'Email', table 'Storage.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 08:36:08 Cannot insert the value NULL into column 'Email', table 'Storage.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 08:38:49 Cannot insert the value NULL into column 'Email', table 'Storage.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 08:47:26 Cannot insert the value NULL into column 'Email', table 'Storage.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 08:50:04 Cannot insert the value NULL into column 'Phone', table 'Storage.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 08:50:59 Cannot insert the value NULL into column 'Email', table 'Storage.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 08:52:12 Cannot insert the value NULL into column 'Email', table 'Storage.dbo.Users'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 09:50:46 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 09:52:13 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 04:33:49 Violation of PRIMARY KEY constraint 'PK_Users'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (10   ).
+The statement has been terminated.
+ERROR 12:32:48 Violation of PRIMARY KEY constraint 'PK_Users'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (U0001).
+The statement has been terminated.
+ERROR 12:32:59 Violation of PRIMARY KEY constraint 'PK_Users'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (U0001).
+The statement has been terminated.
+INFO  05:22:28 BookMyShowNewWebAPI.Entity.City
+INFO  02:40:15 BookMyShowNewWebAPI.Entity.City
+INFO  02:41:01 BookMyShowNewWebAPI.Entity.City
